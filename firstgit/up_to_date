@@ -1,0 +1,8 @@
+git init
+git clone https://token@github.com/your_name/repo_name
+
+git add .
+git commit -m "Significant message"
+
+git pull
+git push
